@@ -1,0 +1,16 @@
+Origin: apt.pharmstudio.com.ua
+Label: apt.pharmstudio.com.ua
+Codename: bionic
+Architectures: i386 amd64 arm64 armhf source
+Components: main
+Description: Pharmstudio apt repo
+SignWith: E22C2C65C310F0CD
+
+
+Origin: apt.pharmstudio.com.ua
+Label: apt.pharmstudio.com.ua
+Codename: focal
+Architectures: i386 amd64 arm64 armhf source
+Components: main
+Description: Pharmstudio apt repo
+SignWith: E22C2C65C310F0CD

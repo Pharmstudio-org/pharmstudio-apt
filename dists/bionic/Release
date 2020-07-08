@@ -1,0 +1,55 @@
+Origin: apt.pharmstudio.com.ua
+Label: apt.pharmstudio.com.ua
+Codename: bionic
+Date: Wed, 08 Jul 2020 19:05:24 UTC
+Architectures: i386 amd64 arm64 armhf
+Components: main
+Description: Pharmstudio apt repo
+MD5Sum:
+ 50cc01f1238daf6dbdb261b0b9c41029 960 main/binary-i386/Packages
+ 924920aafb8fdd33d85e8451969ba2eb 584 main/binary-i386/Packages.gz
+ 3ec820d693cb2d00369f1a136c374b37 130 main/binary-i386/Release
+ 50cc01f1238daf6dbdb261b0b9c41029 960 main/binary-amd64/Packages
+ 924920aafb8fdd33d85e8451969ba2eb 584 main/binary-amd64/Packages.gz
+ a35926bdd42a82532f07216a00fe3f87 131 main/binary-amd64/Release
+ 50cc01f1238daf6dbdb261b0b9c41029 960 main/binary-arm64/Packages
+ 924920aafb8fdd33d85e8451969ba2eb 584 main/binary-arm64/Packages.gz
+ fa743ab54d805a3078bde814e62b04cf 131 main/binary-arm64/Release
+ 50cc01f1238daf6dbdb261b0b9c41029 960 main/binary-armhf/Packages
+ 924920aafb8fdd33d85e8451969ba2eb 584 main/binary-armhf/Packages.gz
+ 53322764753d23cc1f350a95bd103c05 131 main/binary-armhf/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
+ 7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
+ c3ae89dcaf6d0063ec140b23d67d7bc7 132 main/source/Release
+SHA1:
+ 8fc1f49a5b48d2cce8df3cb3802e54f2421cfc8c 960 main/binary-i386/Packages
+ cbaa55f5ff26724a1f84d668dfdc0c115fc9250e 584 main/binary-i386/Packages.gz
+ d6172f4d9bb2d2528af96e8058408780b8c96cdf 130 main/binary-i386/Release
+ 8fc1f49a5b48d2cce8df3cb3802e54f2421cfc8c 960 main/binary-amd64/Packages
+ cbaa55f5ff26724a1f84d668dfdc0c115fc9250e 584 main/binary-amd64/Packages.gz
+ 232e37610d5b28b79bd3abd30424d08ada8ad45f 131 main/binary-amd64/Release
+ 8fc1f49a5b48d2cce8df3cb3802e54f2421cfc8c 960 main/binary-arm64/Packages
+ cbaa55f5ff26724a1f84d668dfdc0c115fc9250e 584 main/binary-arm64/Packages.gz
+ 071a579d0b6cb8ddb4db1b48c761172c809a9ecc 131 main/binary-arm64/Release
+ 8fc1f49a5b48d2cce8df3cb3802e54f2421cfc8c 960 main/binary-armhf/Packages
+ cbaa55f5ff26724a1f84d668dfdc0c115fc9250e 584 main/binary-armhf/Packages.gz
+ 27d5e53120662ca5b3a981c720382ca21d8c992c 131 main/binary-armhf/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
+ 9b09af5eb64fe1c335e28e509ac8d3c2c5cc8bf5 132 main/source/Release
+SHA256:
+ 785a43a3bc4fe9eb8b26705fab08251e22b0e01c43ca96ffa1b07effda101080 960 main/binary-i386/Packages
+ 8a66aad3383bfc28c413f9979f01f51f4e22dc251db200554dba591b136775a1 584 main/binary-i386/Packages.gz
+ 8612f0f017b77d7ea0e14df95d6e8acddb0d5b3bffe1644b3c6b6d2b3ab96a25 130 main/binary-i386/Release
+ 785a43a3bc4fe9eb8b26705fab08251e22b0e01c43ca96ffa1b07effda101080 960 main/binary-amd64/Packages
+ 8a66aad3383bfc28c413f9979f01f51f4e22dc251db200554dba591b136775a1 584 main/binary-amd64/Packages.gz
+ 2b08617bdc77abb6c920a2bfcb6894d182c0f16bcb601cf2abfec1332b459d1c 131 main/binary-amd64/Release
+ 785a43a3bc4fe9eb8b26705fab08251e22b0e01c43ca96ffa1b07effda101080 960 main/binary-arm64/Packages
+ 8a66aad3383bfc28c413f9979f01f51f4e22dc251db200554dba591b136775a1 584 main/binary-arm64/Packages.gz
+ 6a01f6f72da72dbeb482d457b9a4059617f67686ee41969019cdbfe2b2d57ab7 131 main/binary-arm64/Release
+ 785a43a3bc4fe9eb8b26705fab08251e22b0e01c43ca96ffa1b07effda101080 960 main/binary-armhf/Packages
+ 8a66aad3383bfc28c413f9979f01f51f4e22dc251db200554dba591b136775a1 584 main/binary-armhf/Packages.gz
+ 8e907ca2e1578d89669ee25f43193d2d7941490c6f219d4b798c55d118cd7d07 131 main/binary-armhf/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
+ 8505b53f2fb7bfb1034625255f9ea46adb47253e06d9eca90f4cdd21efa02e21 132 main/source/Release
