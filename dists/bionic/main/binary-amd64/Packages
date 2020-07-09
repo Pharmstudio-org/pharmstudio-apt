@@ -30,10 +30,10 @@ Depends: python3-gi-cairo, python3-psutil, python3-twisted, python3-treq, python
 Priority: optional
 Section: base
 Filename: pool/main/t/terminal3/terminal3_1.0-1_all.deb
-Size: 2326824
-SHA256: f9993fb247c3761b145969a9d24a1e5249200aa9f86a2b8c8dd4d96ca69c2bc7
-SHA1: 447031e22e42e038ee3b7e725d544b45cc3c6c5d
-MD5sum: 25eb3b2dc1760e7dd05282871572c10c
+Size: 2327028
+SHA256: 16864187a40eabeae2090db48f4024b9cc816e44188f3804442e8f1c5d0193aa
+SHA1: 25fa308b12a969178cf01ee17f60c35da12339d0
+MD5sum: 0c2724225407869eae3b8210abfdb57c
 Description: Pharmstudio terminal
  Goods selling tool connected to pharmstudio.com.ua
 
