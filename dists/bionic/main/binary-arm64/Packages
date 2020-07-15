@@ -22,6 +22,27 @@ Description: Lightweight, extensible data validation library for Python
  .
  This package installs the library for Python 3.
 
+Package: python3-pydantic
+Source: pydantic
+Version: 1.2-1
+Architecture: all
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Michael Banck <mbanck@debian.org>
+Installed-Size: 341
+Depends: python3:any (>= 3.6~)
+Homepage: https://github.com/samuelcolvin/pydantic
+Priority: optional
+Section: python
+Filename: pool/main/p/pydantic/python3-pydantic_1.2-1_all.deb
+Size: 65156
+SHA256: 1cb79f0171fb9ebe86332d7acd6d373e31d2963a6fb9b3987edb2573429312f1
+SHA1: cf254a682f0a823a24cb8f4774a88c4d5b9d1b79
+MD5sum: 1536d9c20ae6eb55bf63a33885415838
+Description: Data validation and settings management using Python type hinting
+ pydantic uses type hinting (PEP 484) and variable annotation (PEP 526) to
+ validate that untrusted data takes the desired form. There is also support for
+ an extension to dataclasses where the input data is validated.
+
 Package: python3-treq
 Source: python-treq
 Version: 18.6.0-0.2
