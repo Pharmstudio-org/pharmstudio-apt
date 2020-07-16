@@ -1,3 +1,18 @@
+Package: pharmstudio-rc-client
+Version: 1.0-2
+Architecture: all
+Maintainer: Valentin Osipenko <valtron.forever@gmail.com>
+Depends: python3-websockets, python3-pydantic, vlc, tigervnc-scraping-server, openssh-server
+Priority: optional
+Section: base
+Filename: pool/main/p/pharmstudio-rc-client/pharmstudio-rc-client_1.0-2_all.deb
+Size: 9556
+SHA256: 500ebd56de1759e47b0827337778474c658b9315795e6c2f7b50c42429235788
+SHA1: f34a49b958941226099ddc61b6a7866aab50cef3
+MD5sum: b317aba8247835398082a198e666cafb
+Description: Pharmstudio remote controll client
+ Allow remote access to this machine
+
 Package: terminal3
 Version: 1.0-1
 Architecture: all
