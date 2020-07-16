@@ -81,6 +81,31 @@ Description: Higher level API for making HTTP requests with Twisted (Python 3)
  .
  This is the Python 3 package.
 
+Package: python3-websockets
+Source: python-websockets
+Version: 8.1-1
+Architecture: all
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Piotr Ożarowski <piotr@debian.org>
+Installed-Size: 252
+Depends: python3:any
+Homepage: https://github.com/aaugustin/websockets
+Priority: optional
+Section: python
+Filename: pool/main/p/python-websockets/python3-websockets_8.1-1_all.deb
+Size: 47716
+SHA256: 6f56b086885426250e268639aaebd6aab60c7966a6c983dabb6dd7d85831ccf7
+SHA1: 7baa356f72eaa85148c20b2dfed65eb797efd80c
+MD5sum: 2d9ca892a4ebaca18fb24debff631bf1
+Description: implementation of the WebSocket Protocol (RFC 6455)
+ websockets is a library for developing WebSocket servers and clients in
+ Python. It implements RFC 6455 with a focus on correctness and simplicity.
+ It passes the Autobahn Testsuite.
+ .
+ Built on top of Python's asynchronous I/O support introduced in PEP 3156,
+ it provides an API based on coroutines, making it easy to write highly
+ concurrent applications.
+
 Package: terminal3
 Version: 1.0-1
 Architecture: all
