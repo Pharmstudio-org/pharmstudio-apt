@@ -37,6 +37,43 @@ Description: Lightweight, extensible data validation library for Python
  .
  This package installs the library for Python 3.
 
+Package: python3-dataclasses
+Source: dataclasses
+Version: 0.7-1
+Architecture: all
+Maintainer: Eric V. Smith <eric@python.org>
+Installed-Size: 64
+Depends: python3:any (>= 3.3.2-2~)
+Homepage: https://github.com/ericvsmith/dataclasses
+Priority: optional
+Section: python
+Filename: pool/main/d/dataclasses/python3-dataclasses_0.7-1_all.deb
+Size: 15048
+SHA256: d8ddebb1a6acc7c9364c0ca539df7c23943d7793920a1d37c44be37e6ef87d0e
+SHA1: 9ce40c3b6802593e59f5df16f478e599d9d14923
+MD5sum: fb925a43e21fc7389294188dadbd8f5c
+Description: A backport of the dataclasses module for Python 3.6
+ .. image:: https://img.shields.io/pypi/v/dataclasses.svg
+    :target: https://pypi.org/project/dataclasses/
+ .
+ .
+ This is an implementation of PEP 557, Data Classes.  It is a backport
+ for Python 3.6.  Because dataclasses will be included in Python 3.7,
+ any discussion of dataclass features should occur on the python-dev
+ mailing list at https://mail.python.org/mailman/listinfo/python-dev.
+ At this point this repo should only be used for historical purposes
+ (it's where the original dataclasses discussions took place) and for
+ discussion of the actual backport to Python 3.6.
+ .
+ See https://www.python.org/dev/peps/pep-0557/ for the details of how
+ Data Classes work.
+ .
+ A test file can be found at
+ https://github.com/ericvsmith/dataclasses/blob/master/test/test_dataclasses.py,
+ or in the sdist file.
+ .
+ Installation
+
 Package: python3-pydantic
 Source: pydantic
 Version: 1.2-1
