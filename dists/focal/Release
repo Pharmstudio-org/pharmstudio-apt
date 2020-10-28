@@ -1,7 +1,7 @@
 Origin: apt.pharmstudio.com.ua
 Label: apt.pharmstudio.com.ua
 Codename: focal
-Date: Thu, 16 Jul 2020 12:18:09 UTC
+Date: Wed, 28 Oct 2020 18:37:51 UTC
 Architectures: i386 amd64 arm64 armhf
 Components: main
 Description: Pharmstudio apt repo
@@ -9,8 +9,8 @@ MD5Sum:
  f40e3525d804d20c87b5e54cf3889159 1164 main/binary-i386/Packages
  1301cbe46e6e5c0bc12f982505187a42 622 main/binary-i386/Packages.gz
  3ec820d693cb2d00369f1a136c374b37 130 main/binary-i386/Release
- f40e3525d804d20c87b5e54cf3889159 1164 main/binary-amd64/Packages
- 1301cbe46e6e5c0bc12f982505187a42 622 main/binary-amd64/Packages.gz
+ c1bae492b591faee8c93e3d9a9a263e0 1679 main/binary-amd64/Packages
+ 1bc131560b2eae800a4dd3fceb8d83b7 805 main/binary-amd64/Packages.gz
  a35926bdd42a82532f07216a00fe3f87 131 main/binary-amd64/Release
  f40e3525d804d20c87b5e54cf3889159 1164 main/binary-arm64/Packages
  1301cbe46e6e5c0bc12f982505187a42 622 main/binary-arm64/Packages.gz
@@ -25,8 +25,8 @@ SHA1:
  09ccdc782a7e523fceb4e2dde26856a44548214a 1164 main/binary-i386/Packages
  95ffdd55c7f191ef25b27df72f11b3cb78b0015f 622 main/binary-i386/Packages.gz
  d6172f4d9bb2d2528af96e8058408780b8c96cdf 130 main/binary-i386/Release
- 09ccdc782a7e523fceb4e2dde26856a44548214a 1164 main/binary-amd64/Packages
- 95ffdd55c7f191ef25b27df72f11b3cb78b0015f 622 main/binary-amd64/Packages.gz
+ dc966d5a4cf85a7d1684bb2c9d2590f9b335da4b 1679 main/binary-amd64/Packages
+ 5254185174fc81d99cd66bc569f4b028231ac44b 805 main/binary-amd64/Packages.gz
  232e37610d5b28b79bd3abd30424d08ada8ad45f 131 main/binary-amd64/Release
  09ccdc782a7e523fceb4e2dde26856a44548214a 1164 main/binary-arm64/Packages
  95ffdd55c7f191ef25b27df72f11b3cb78b0015f 622 main/binary-arm64/Packages.gz
@@ -41,8 +41,8 @@ SHA256:
  d013241eb09d82df42d46b7b21c759b66a36a9de203ac2290fa9f8eddc3f862a 1164 main/binary-i386/Packages
  878931cc6fcdf5b653f8b6ef7166e6563292f2e3ca1b105b04b91bd8ed94765f 622 main/binary-i386/Packages.gz
  8612f0f017b77d7ea0e14df95d6e8acddb0d5b3bffe1644b3c6b6d2b3ab96a25 130 main/binary-i386/Release
- d013241eb09d82df42d46b7b21c759b66a36a9de203ac2290fa9f8eddc3f862a 1164 main/binary-amd64/Packages
- 878931cc6fcdf5b653f8b6ef7166e6563292f2e3ca1b105b04b91bd8ed94765f 622 main/binary-amd64/Packages.gz
+ 8333ccbea7e34b7c584b44e58cef023e40de3f95197e423416ef81353caa2559 1679 main/binary-amd64/Packages
+ 231d3b1ef167c1d0d66cc91cc8e5ad7f70d4548c433e0ca46dafd1a7f982a612 805 main/binary-amd64/Packages.gz
  2b08617bdc77abb6c920a2bfcb6894d182c0f16bcb601cf2abfec1332b459d1c 131 main/binary-amd64/Release
  d013241eb09d82df42d46b7b21c759b66a36a9de203ac2290fa9f8eddc3f862a 1164 main/binary-arm64/Packages
  878931cc6fcdf5b653f8b6ef7166e6563292f2e3ca1b105b04b91bd8ed94765f 622 main/binary-arm64/Packages.gz
