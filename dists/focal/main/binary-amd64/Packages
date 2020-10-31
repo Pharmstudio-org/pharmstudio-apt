@@ -21,10 +21,10 @@ Depends: python3-gi-cairo, gobject-introspection, gir1.2-gtk-3.0
 Priority: optional
 Section: base
 Filename: pool/main/p/plconv/plconv_1.0-1focal_amd64.deb
-Size: 30966888
-SHA256: 9a93535eb7f0f13392cc6d9ea76f7f176de344765bce5000b98c60e5223140ce
-SHA1: cf79e9b7fa6c22752e410d93f46893bb92c472e0
-MD5sum: 12aec96e4e8fed3f964d5fe9933fc0b2
+Size: 30966388
+SHA256: 186db4a2a6397ad76d941759f5408cec1639dbf88a30b89ac14e29ca4d04670a
+SHA1: 5bec6a28c807d2f8b6682dd6b8b5575466e08f42
+MD5sum: bdfbc3ed065c6904122c4d42082f9e38
 Description: Pharmstudio plconv
  Pricelist converter for pharmstudio
 
