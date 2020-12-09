@@ -14,17 +14,17 @@ Description: Pharmstudio remote controll client
  Allow remote access to this machine
 
 Package: terminal3
-Version: 1.0-1
+Version: 1.1-1
 Architecture: all
 Maintainer: Valentin Osipenko <valtron.forever@gmail.com>
 Depends: python3-gi-cairo, python3-psutil, python3-twisted, python3-treq, python3-service-identity, python3-cerberus
 Priority: optional
 Section: base
-Filename: pool/main/t/terminal3/terminal3_1.0-1_all.deb
-Size: 2327028
-SHA256: 16864187a40eabeae2090db48f4024b9cc816e44188f3804442e8f1c5d0193aa
-SHA1: 25fa308b12a969178cf01ee17f60c35da12339d0
-MD5sum: 0c2724225407869eae3b8210abfdb57c
+Filename: pool/main/t/terminal3/terminal3_1.1-1_all.deb
+Size: 2326260
+SHA256: 4f3336c9ab424585a3760ad56a3cf22c971238515de26b76616db532b9d0bd29
+SHA1: b08871e20ed8b9ea0449e32a2eee7b341d747666
+MD5sum: 6329c9500275302cd94eeef69f965af4
 Description: Pharmstudio terminal
  Goods selling tool connected to pharmstudio.com.ua
 
