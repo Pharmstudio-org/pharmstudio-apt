@@ -14,17 +14,17 @@ Description: Pharmstudio remote controll client
  Allow remote access to this machine
 
 Package: plconv
-Version: 1.0-1focal
+Version: 1.1-1focal
 Architecture: amd64
 Maintainer: Valentin Osipenko <valtron.forever@gmail.com>
 Depends: python3-gi-cairo, gobject-introspection, gir1.2-gtk-3.0
 Priority: optional
 Section: base
-Filename: pool/main/p/plconv/plconv_1.0-1focal_amd64.deb
-Size: 30966388
-SHA256: 186db4a2a6397ad76d941759f5408cec1639dbf88a30b89ac14e29ca4d04670a
-SHA1: 5bec6a28c807d2f8b6682dd6b8b5575466e08f42
-MD5sum: bdfbc3ed065c6904122c4d42082f9e38
+Filename: pool/main/p/plconv/plconv_1.1-1focal_amd64.deb
+Size: 30966932
+SHA256: d11897f3828e7e11cab65b140f990c5ab57417b556bb5f3a788429e3d0e1918f
+SHA1: af432604607173faa29e38103e93a5d497481d36
+MD5sum: 9dd15563cc1e99d213ac927f50ac031e
 Description: Pharmstudio plconv
  Pricelist converter for pharmstudio
 
