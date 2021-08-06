@@ -1,7 +1,7 @@
 Origin: apt.pharmstudio.com.ua
 Label: apt.pharmstudio.com.ua
 Codename: bionic
-Date: Fri, 06 Aug 2021 18:51:29 UTC
+Date: Fri, 06 Aug 2021 19:23:11 UTC
 Architectures: i386 amd64 arm64 armhf
 Components: main
 Description: Pharmstudio apt repo
@@ -9,8 +9,8 @@ MD5Sum:
  dc44a56d40285a456d329b4b1a4b3a99 6364 main/binary-i386/Packages
  3209aa7eecab7c0fa82e28e9a097bd61 2670 main/binary-i386/Packages.gz
  3ec820d693cb2d00369f1a136c374b37 130 main/binary-i386/Release
- 90292b1492a54be325ac9792ee09bd0e 6881 main/binary-amd64/Packages
- 77e384df4fe6d13177fdbccc0cdb6296 2858 main/binary-amd64/Packages.gz
+ 41db232f085d2f510ab635835021981c 6881 main/binary-amd64/Packages
+ 832cbbaac66fb8be92c19e626a959073 2856 main/binary-amd64/Packages.gz
  a35926bdd42a82532f07216a00fe3f87 131 main/binary-amd64/Release
  dc44a56d40285a456d329b4b1a4b3a99 6364 main/binary-arm64/Packages
  3209aa7eecab7c0fa82e28e9a097bd61 2670 main/binary-arm64/Packages.gz
@@ -25,8 +25,8 @@ SHA1:
  475609d684994e567f150832b662186d288782b0 6364 main/binary-i386/Packages
  699f17bc6116db76a900d94dfe81f15fca189783 2670 main/binary-i386/Packages.gz
  d6172f4d9bb2d2528af96e8058408780b8c96cdf 130 main/binary-i386/Release
- 0677455f115462b8a2aafd394ff12636a5ee7de2 6881 main/binary-amd64/Packages
- 8b53f771dac133a2c22f7dd24903d1ee866d7a60 2858 main/binary-amd64/Packages.gz
+ 01570087121a017e3c23ca8cfd4dd65428b48cca 6881 main/binary-amd64/Packages
+ 5d2f95771bb383d5cf8acd0ff23595c5f3a69a5c 2856 main/binary-amd64/Packages.gz
  232e37610d5b28b79bd3abd30424d08ada8ad45f 131 main/binary-amd64/Release
  475609d684994e567f150832b662186d288782b0 6364 main/binary-arm64/Packages
  699f17bc6116db76a900d94dfe81f15fca189783 2670 main/binary-arm64/Packages.gz
@@ -41,8 +41,8 @@ SHA256:
  3a7978ee3c52e074eef1fb489b0cef085bd75f036e0011f224f2476b6ea5036f 6364 main/binary-i386/Packages
  2fc70c92cf8ecfac9014e2b5e152436b3251d357617eb2bbe6169fa3d0c8f1e5 2670 main/binary-i386/Packages.gz
  8612f0f017b77d7ea0e14df95d6e8acddb0d5b3bffe1644b3c6b6d2b3ab96a25 130 main/binary-i386/Release
- 69fbf7accac69e6b8dfdb54ac064756f95f3f44afc6869604b6057e64ef56f99 6881 main/binary-amd64/Packages
- eb10659651669687cfb7886d129ed2b2f519fad3931f7e380f9aceb3cb3467b1 2858 main/binary-amd64/Packages.gz
+ 327201e0f4522e62b182216837c57df9203b91093a816f6d26b5b3f616646c89 6881 main/binary-amd64/Packages
+ a561b435f913f562fd6e5850c5eddf9c2742e135a48268090011f2a417e232de 2856 main/binary-amd64/Packages.gz
  2b08617bdc77abb6c920a2bfcb6894d182c0f16bcb601cf2abfec1332b459d1c 131 main/binary-amd64/Release
  3a7978ee3c52e074eef1fb489b0cef085bd75f036e0011f224f2476b6ea5036f 6364 main/binary-arm64/Packages
  2fc70c92cf8ecfac9014e2b5e152436b3251d357617eb2bbe6169fa3d0c8f1e5 2670 main/binary-arm64/Packages.gz
