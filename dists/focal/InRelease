@@ -4,7 +4,7 @@ Hash: SHA512
 Origin: apt.pharmstudio.com.ua
 Label: apt.pharmstudio.com.ua
 Codename: focal
-Date: Fri, 06 Aug 2021 19:23:26 UTC
+Date: Mon, 09 Aug 2021 12:19:04 UTC
 Architectures: i386 amd64 arm64 armhf
 Components: main
 Description: Pharmstudio apt repo
@@ -12,8 +12,8 @@ MD5Sum:
  84904b6480e23e15fa709db3b1b1daca 1164 main/binary-i386/Packages
  144bd39c1c774be6864e513d989bc5e4 622 main/binary-i386/Packages.gz
  3ec820d693cb2d00369f1a136c374b37 130 main/binary-i386/Release
- 378e4df2a9a5d620896f9e9a56baaa98 1679 main/binary-amd64/Packages
- 30951d4aa82e2990dbc31e66881bb6e3 808 main/binary-amd64/Packages.gz
+ 15b0a85252567e9036811f768620290b 1679 main/binary-amd64/Packages
+ e35af34530ff78b4272ec424645a275a 807 main/binary-amd64/Packages.gz
  a35926bdd42a82532f07216a00fe3f87 131 main/binary-amd64/Release
  84904b6480e23e15fa709db3b1b1daca 1164 main/binary-arm64/Packages
  144bd39c1c774be6864e513d989bc5e4 622 main/binary-arm64/Packages.gz
@@ -28,8 +28,8 @@ SHA1:
  0f121a69084bfbfd1968cbf76258b9679dea7bf7 1164 main/binary-i386/Packages
  ecb7c933253247025a7e26c8addb22ac79833bd5 622 main/binary-i386/Packages.gz
  d6172f4d9bb2d2528af96e8058408780b8c96cdf 130 main/binary-i386/Release
- ce59652f4b04288797615ccc4679e126e3fb8bc4 1679 main/binary-amd64/Packages
- 6c42dbd6db991323b56c75157e04242ff091de04 808 main/binary-amd64/Packages.gz
+ 9fe7cd4dd5bcc95b302b2911b4695d91f188f682 1679 main/binary-amd64/Packages
+ d68f0d05211acf660686ae27d637685bd09936df 807 main/binary-amd64/Packages.gz
  232e37610d5b28b79bd3abd30424d08ada8ad45f 131 main/binary-amd64/Release
  0f121a69084bfbfd1968cbf76258b9679dea7bf7 1164 main/binary-arm64/Packages
  ecb7c933253247025a7e26c8addb22ac79833bd5 622 main/binary-arm64/Packages.gz
@@ -44,8 +44,8 @@ SHA256:
  dffd13f15f8b9e6f8b42016c36459103f65ea1a07c88349a9e667d34963fc817 1164 main/binary-i386/Packages
  0c15b591afbaffcab99d606d10782414a8cebfc558435d277de9fb5304b602b8 622 main/binary-i386/Packages.gz
  8612f0f017b77d7ea0e14df95d6e8acddb0d5b3bffe1644b3c6b6d2b3ab96a25 130 main/binary-i386/Release
- f9c5eb3ac5839594b3f01f6275f2a24e4a3bd020ff08509b8237b366b6a287f4 1679 main/binary-amd64/Packages
- 5c85536cba7ffbdd56774bff5d06f354a7d8a1c8f7d5b281113306d32f5ebcde 808 main/binary-amd64/Packages.gz
+ f06a9d42c22f751b95494e6ebd47883976478e0ba4caa8dd3bfad612bb98b342 1679 main/binary-amd64/Packages
+ 9226ab02d18d444d6775a767d98b41607a9eea8492e886e5bbcc9a8539fbf8af 807 main/binary-amd64/Packages.gz
  2b08617bdc77abb6c920a2bfcb6894d182c0f16bcb601cf2abfec1332b459d1c 131 main/binary-amd64/Release
  dffd13f15f8b9e6f8b42016c36459103f65ea1a07c88349a9e667d34963fc817 1164 main/binary-arm64/Packages
  0c15b591afbaffcab99d606d10782414a8cebfc558435d277de9fb5304b602b8 622 main/binary-arm64/Packages.gz
@@ -58,17 +58,17 @@ SHA256:
  8505b53f2fb7bfb1034625255f9ea46adb47253e06d9eca90f4cdd21efa02e21 132 main/source/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEBkVMvE+pEZ2F8XbH4iwsZcMQ8M0FAmENjC8ACgkQ4iwsZcMQ
-8M2QBQ/+IuG5tjrx4ol+8OjYOPRfZXchE814wvtdLomlrooo1Sgb7FggqnTilrs3
-inNkpXSpC5M8ickR9Zi3HyLcdVUMlsec7dy0ELTmJ3mlgBERGUhWJD0piZ2JZooF
-t5V7XOcL2qbfzhZNINSkADONhwVZwHHQzREPZ3/muk4uRyc/S1o7pC3Emzobydxb
-CkV7FPalOBM59BzzbY34r+m7TVtXEPJYY/Yy8gbqnwFERzeDtFc26YjcuIVi2sjt
-AXAFXbKK/jcMzdkk3ieEdRqa1ij78gMGBjKXkmGfNxUEarFXSw4faZazhIqMaiaK
-2IG6JXpO/brXvjzyYkVYwlUsq7ZgMtki+wj+9vW/VmCghXGKOysbiny41jnePzXy
-B+DSPADYNONIlz1dFhYiPy6Gnvy2S4WRYWcNzr69iRj1FRVDcRdaA/ZZZjlutolQ
-iuxNuCHLuHZgb7dI5n10Y0X7GGqEP/0Y7I+GqFG/t7FrB81nVa0Q3CyE8TYYz5vw
-4pG16blCGYMGjnW3f2zBigAZ+HtMn2HfMrUqyWFfDCi+f0gWUe7j0XbDHFQB+qEn
-Nfc+a/1nS2ksd9xgg3csHnD0l6dCA2UHXLHlqZ6O0/QQzqVtqHSxCfi7Uz5ihzxI
-G7HGhUTM98VtsZM74sXsykQeufc3Y3b9CP+RRKMKBZquSBA7Tv0=
-=LKPz
+iQIzBAEBCgAdFiEEBkVMvE+pEZ2F8XbH4iwsZcMQ8M0FAmERHTkACgkQ4iwsZcMQ
+8M2jRA//RpSF6tbfxTcZv75VGzJGbjNVMkLTQdlzs9JHHH9+/oGxEiIchsGyxPb2
+zT6KhmIkF7s5btj6pLYGczekntypTqmrKMqOF3KhjMF+pGtvPz5A4uwo0DOakH5B
+XOTQGcUG4k/3jF3t7T8B/z49Svbxc69jqw4KkuGyfJG9InzU91XKSFIBZqybGDur
+fYK0OgEN0HWupP+ip0Iw5qCKqj0MRU+TMaxahmnqvqpzlxyem3zpBJmnHvU4jAxS
+mUGBN3RZ8XromYbNIpZuqAka2l1XouYk+X4gJOWSV173ktEOgELs0gs6FWqxONU2
+02hYTS4HyCGuc4hkJZOZxOhO7G/SYn3HEN+/CYZYsZaJrNCoTz8/BdSERwJwCzbr
+yz+MPII7fX2iYn3CeDFiXv206jX3aK8zwfhPAlAPw9XNKPJEdL90y98i8W2fa6ff
+8ae0ivKMhZQgE8vqHTzOQMt93hyXsFaUXaa6b+zH1mpBRg/gxWrHG08NKRo6Bw4y
+VI2mteE5Yhzb3W4rsoABj8vrJCeD17DPvI0xC9U2b7IhaUbxVHHueNU+YlpZUEY/
+/oyGwPhVJykGtrtrLBpjllHoPM/q39PCX2vMbrtoIkViwhbb1wAVKQxlAon257Du
+PNoJSoBxQVi2APkJ50lNKylsRs/dd9TT11DGRcF46vQBevVs9PQ=
+=CcG/
 -----END PGP SIGNATURE-----
