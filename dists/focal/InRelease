@@ -4,7 +4,7 @@ Hash: SHA512
 Origin: apt.pharmstudio.com.ua
 Label: apt.pharmstudio.com.ua
 Codename: focal
-Date: Mon, 09 Aug 2021 12:19:04 UTC
+Date: Mon, 16 Aug 2021 08:28:44 UTC
 Architectures: i386 amd64 arm64 armhf
 Components: main
 Description: Pharmstudio apt repo
@@ -12,8 +12,8 @@ MD5Sum:
  84904b6480e23e15fa709db3b1b1daca 1164 main/binary-i386/Packages
  144bd39c1c774be6864e513d989bc5e4 622 main/binary-i386/Packages.gz
  3ec820d693cb2d00369f1a136c374b37 130 main/binary-i386/Release
- 15b0a85252567e9036811f768620290b 1679 main/binary-amd64/Packages
- e35af34530ff78b4272ec424645a275a 807 main/binary-amd64/Packages.gz
+ 104d0d055f47091eb77c6668e97233cd 1679 main/binary-amd64/Packages
+ bbb8dbc557f2263ac0e6cbaad29ced26 808 main/binary-amd64/Packages.gz
  a35926bdd42a82532f07216a00fe3f87 131 main/binary-amd64/Release
  84904b6480e23e15fa709db3b1b1daca 1164 main/binary-arm64/Packages
  144bd39c1c774be6864e513d989bc5e4 622 main/binary-arm64/Packages.gz
@@ -28,8 +28,8 @@ SHA1:
  0f121a69084bfbfd1968cbf76258b9679dea7bf7 1164 main/binary-i386/Packages
  ecb7c933253247025a7e26c8addb22ac79833bd5 622 main/binary-i386/Packages.gz
  d6172f4d9bb2d2528af96e8058408780b8c96cdf 130 main/binary-i386/Release
- 9fe7cd4dd5bcc95b302b2911b4695d91f188f682 1679 main/binary-amd64/Packages
- d68f0d05211acf660686ae27d637685bd09936df 807 main/binary-amd64/Packages.gz
+ 3b8aa071e8a353a6d0f7d2669408a5b7939f2965 1679 main/binary-amd64/Packages
+ d42ac40b816bc351efd59e552f2c7cb3b69a5274 808 main/binary-amd64/Packages.gz
  232e37610d5b28b79bd3abd30424d08ada8ad45f 131 main/binary-amd64/Release
  0f121a69084bfbfd1968cbf76258b9679dea7bf7 1164 main/binary-arm64/Packages
  ecb7c933253247025a7e26c8addb22ac79833bd5 622 main/binary-arm64/Packages.gz
@@ -44,8 +44,8 @@ SHA256:
  dffd13f15f8b9e6f8b42016c36459103f65ea1a07c88349a9e667d34963fc817 1164 main/binary-i386/Packages
  0c15b591afbaffcab99d606d10782414a8cebfc558435d277de9fb5304b602b8 622 main/binary-i386/Packages.gz
  8612f0f017b77d7ea0e14df95d6e8acddb0d5b3bffe1644b3c6b6d2b3ab96a25 130 main/binary-i386/Release
- f06a9d42c22f751b95494e6ebd47883976478e0ba4caa8dd3bfad612bb98b342 1679 main/binary-amd64/Packages
- 9226ab02d18d444d6775a767d98b41607a9eea8492e886e5bbcc9a8539fbf8af 807 main/binary-amd64/Packages.gz
+ d2480a1f9bbc2d5a7c866dfdfdb2296a4e612260d0a5009630855f86290135fe 1679 main/binary-amd64/Packages
+ 6655ab7708dde6fe1fa45de34fbe9ef854115882022fa7dcdd2bf2f72dcad27e 808 main/binary-amd64/Packages.gz
  2b08617bdc77abb6c920a2bfcb6894d182c0f16bcb601cf2abfec1332b459d1c 131 main/binary-amd64/Release
  dffd13f15f8b9e6f8b42016c36459103f65ea1a07c88349a9e667d34963fc817 1164 main/binary-arm64/Packages
  0c15b591afbaffcab99d606d10782414a8cebfc558435d277de9fb5304b602b8 622 main/binary-arm64/Packages.gz
@@ -58,17 +58,17 @@ SHA256:
  8505b53f2fb7bfb1034625255f9ea46adb47253e06d9eca90f4cdd21efa02e21 132 main/source/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEBkVMvE+pEZ2F8XbH4iwsZcMQ8M0FAmERHTkACgkQ4iwsZcMQ
-8M2jRA//RpSF6tbfxTcZv75VGzJGbjNVMkLTQdlzs9JHHH9+/oGxEiIchsGyxPb2
-zT6KhmIkF7s5btj6pLYGczekntypTqmrKMqOF3KhjMF+pGtvPz5A4uwo0DOakH5B
-XOTQGcUG4k/3jF3t7T8B/z49Svbxc69jqw4KkuGyfJG9InzU91XKSFIBZqybGDur
-fYK0OgEN0HWupP+ip0Iw5qCKqj0MRU+TMaxahmnqvqpzlxyem3zpBJmnHvU4jAxS
-mUGBN3RZ8XromYbNIpZuqAka2l1XouYk+X4gJOWSV173ktEOgELs0gs6FWqxONU2
-02hYTS4HyCGuc4hkJZOZxOhO7G/SYn3HEN+/CYZYsZaJrNCoTz8/BdSERwJwCzbr
-yz+MPII7fX2iYn3CeDFiXv206jX3aK8zwfhPAlAPw9XNKPJEdL90y98i8W2fa6ff
-8ae0ivKMhZQgE8vqHTzOQMt93hyXsFaUXaa6b+zH1mpBRg/gxWrHG08NKRo6Bw4y
-VI2mteE5Yhzb3W4rsoABj8vrJCeD17DPvI0xC9U2b7IhaUbxVHHueNU+YlpZUEY/
-/oyGwPhVJykGtrtrLBpjllHoPM/q39PCX2vMbrtoIkViwhbb1wAVKQxlAon257Du
-PNoJSoBxQVi2APkJ50lNKylsRs/dd9TT11DGRcF46vQBevVs9PQ=
-=CcG/
+iQIzBAEBCgAdFiEEBkVMvE+pEZ2F8XbH4iwsZcMQ8M0FAmEaIb0ACgkQ4iwsZcMQ
+8M2iCg//T11GfuH6ylKNt0yD3NaKy0QziV51vYfxqR2PtSVTkGjNZS/vgW76uR5E
+PBQ26sVQcEjAYayqih1jzKczVzpv+rQaREsqEZWrIQ4YhYKmx/lZJ3GnFRIalALj
+RtIARdy0SLvnvTKaCI68YehZlxXuWlA6MiekCZ1O0vITU26A3at4WLhMNysWvunB
+AhiuS/uipfec9Pdmj+pe+5KHmMWs1gvUss2TYLRneTr7ha560LzVY/hW3JNmVaJJ
+eq0v5Wp0EKcZ+frDl4fKf02Fk9eJIUNAh4LZJ1Rz6Kq4lOmZCuS4eIfuRdqNdZTl
+SHwlD5iQZeaoUNJ35ZxYOEt0xuveGaqsT/V/yIL6tfQOsJQHHnRc9Eyf1kKam58w
+gjjUlxvpDG73G/xLN4JilhQwOPhtMtPVQibb7DJCqUN6gR3DVI56EwYAhy0jy5nK
+Zlvst39m+BRaFNYslASHRS/4l2+dMhAA/Fzf2OW7qys+MKR/CUVZqXqhee1kc91X
+OCyEFSJQklNxLCc/bGQu+CEnhJWJ+EeEgRn0au23MM6EhzfFm+YhAPFjZ7JteJI8
+M0Nxl9jmRMGB01sErZA/4azq7oNBKPa1BLr4XCwx4xC/kuJgnf5r0pdw9N22RAha
+qban6kSu2F6M5CVanYFBUc5nNqkXHx3srgLyibhoqtod5Bxq+DI=
+=iQLL
 -----END PGP SIGNATURE-----
